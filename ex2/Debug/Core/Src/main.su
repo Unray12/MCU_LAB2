@@ -1,0 +1,8 @@
+myLib.h:12:8:display7SEG1	16	static
+main.c:60:6:enState	16	static
+main.c:73:5:main	16	static
+main.c:156:6:SystemClock_Config	72	static
+main.c:192:13:MX_TIM2_Init	32	static
+main.c:237:13:MX_GPIO_Init	32	static
+main.c:274:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:285:6:Error_Handler	4	static,ignoring_inline_asm
